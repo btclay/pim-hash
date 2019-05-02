@@ -18,3 +18,5 @@ optional arguments:
                         0xFFFFFFFC (CIDR equivalent /30) as defined in RFC
                         7761.
 ```
+
+Note: Highest hash value is the selected RP.
